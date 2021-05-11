@@ -22,7 +22,7 @@ What came to my brain was, why there is no solid/categorsised reference over int
 > I think you got the idea! right ?
 
 
-## Unique big picutre
+## What is big picutre
 Let's be clear What I would like to offer here, it's a unique big picutre first which every software engineer with any level of knoweldge can digest it easily. 
 
 Then narrative look to each peice of this big picture where you can : 
