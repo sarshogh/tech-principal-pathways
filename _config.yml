@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/the-tech-principle/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'The Software Tech Principle'
 
 google_analytics_id: ""
 
@@ -13,17 +13,17 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Licenced by MIT <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "The Software Tech Principle"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
+  meta_og_url: "www.linkedin.com/in/ali-sarshogh"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "The Software Tech Pricinple is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@Ali_Sarshogh"
+  meta_twitter_creator: "@Ali_Sarshogh"
 
 collections:
   services:

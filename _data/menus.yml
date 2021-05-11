@@ -1,16 +1,19 @@
 main:
+  - name: "All in one"
+    url: "/all-in-1/"
+    weight: 2
   - name: "Services"
     url: "/services/"
-    weight: 2
+    weight: 3
   - name: "Team"
     url: "/team/"
-    weight: 3
+    weight: 4
   - name: "About"
     url: "/about/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"

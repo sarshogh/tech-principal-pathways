@@ -1,88 +1,41 @@
-# Jekyll Serif Theme
+# The Tech Principle
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Hi there,
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
-[Zerostatic Themes](https://www.zerostatic.io)
+I am Harry Sarshogh, and this is my personal blog where I keep my notes, share my knowledge as a computer engineer to world.
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+So Welcome to my page :)
 
-### Theme features
+Let me give you a little bit context what's in here:
 
-- Jekyll 4.1
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- Responsive design
-- Bootstrap 4.3 grid and media queries only
-- Responsive menu
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
-- Netlify & Github Pages ready
+In software world, there are a lot to understand, learn, study and practice. Loads of trial and errors, jigsaw puzzles to digest and solve! and frankly it's not easy!
 
-## Installation
+I did a lot of study during 2020 and 2021 around almost all the aspect of IT and software world! 
+from  a languages, tool, teams, patterns, industry best practices, users, cost, cloud, agile, TDD, ...... 
 
-### Installing Ruby & Jekyll
- 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+What came to my brain was, why there is no solid/categorsised reference over internet where anyone can quickly find out 
+ - What are the basics and fundations you need to know as a software consultant !
+ - What skills and competencies you should be capable of !
+ - What are the scopes and areas your knowlege needed    
 
-### Installing Theme
 
-Download or clone the theme.
+> I think you got the idea! right ?
 
-To run the theme locally, navigate to the theme directory and run:
 
-```
-bundle install
-``` 
+## Unique big picutre
+Let's be clear What I would like to offer here, it's a unique big picutre first which every software engineer with any level of knoweldge can digest it easily. 
 
-To start the Jekyll local development server.
+Then narrative look to each peice of this big picture where you can : 
+ - understand the basics, fundumentals
+ - understand why behind the how each 
+ - undersand when and what activity to do 
+ - understand the different road map to grow your capabilities
+ - learn and practice
+    -  scope and boundry 
+    -  pattern and industry best practices
+ - what tools and techniques 
+ - what patterns and frameworks
+ - what methods and how to use them
 
-```
-bundle exec jekyll serve
-``` 
 
-To build the theme.
- 
-```
-bundle exec jekyll build
-```
-
-## Deployment
-
-### Stackbit
-
-Use Stackbit to deploy this theme. This theme contains a valid and tested `stackbit.yaml`
-
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
-### Netlify
-
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
-### Github Pages
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
-
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
-
-## Other
-
-### Credits
-
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-
-### License
-
-This theme is open source under the MIT license. Please be respectful 🙏🏽
-
-* If you fork or copy this theme please leave me as an original author in the LICENSE file on line 3 where I am listed as the author.
-* Please don't create ports of this theme without at least asking me. Yes this theme is open-source but I've had several people "port" this theme (with only minor changes) and then advertise the theme as their own. Then they don't update it and it starts to get old and break etc. Now lots of people are finding these old crappy versions of the theme.
+ TBC:
