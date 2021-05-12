@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# How To Be "The" Software Tech Principle
+## How To Be "The"
+#  Software Tech Principle
 
-For IT & software engineers, developers, consultant who aims to grow as a technology pricinple role in their carreer.
+A solid guideline for IT & software engineers, developers, consultant who aim to be competent as an insighfult professional technology pricinple in their career.
