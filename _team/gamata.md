@@ -5,6 +5,7 @@ draft: false
 image: "images/team/gamata.jpeg"
 jobtitle: "Graphic Designer"
 linkedinurl: ""
+promoted: false
 weight: 2
 layout: team
 ---
