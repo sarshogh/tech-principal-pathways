@@ -1,11 +1,11 @@
 ---
-title: "Bill McDonald"
-date: 2018-11-19T10:47:58+10:00
+title: "Gamata"
+date: 2021-05-12T10:47:58+10:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/gamata.jpeg"
 jobtitle: "Graphic Designer"
 linkedinurl: ""
-weight: 7
+weight: 2
 layout: team
 ---
 
