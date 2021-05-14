@@ -26,6 +26,8 @@ seo:
   meta_twitter_creator: "@Ali_Sarshogh"
 
 collections:
+  articles:
+    output: true
   services:
     output: true
   team:
