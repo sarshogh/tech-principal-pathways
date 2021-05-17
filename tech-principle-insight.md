@@ -1,16 +1,17 @@
 ---
 title: 'The Tech Principle Deep Dive'
 bodyClass: page-all-in-1-list
-layout: all-in-1
+layout: tech-principle-insight
 description: The Software Tech Pricinple is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
 intro_image: "images/all-in-1/role-big-picture.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-#  Tech Prinicple Insight
+# .:: Insights ::.
+## Tech Principle A-Z
 ****
->  To be come a insightful `Software Tech Principle`, 
+>  To be come an insightful `Software Tech Principle`, 
 I would like to recommend following road map to be taken for this role!
 
 So, first and formost, at core, is all about capabilitis and strengths.
@@ -174,7 +175,7 @@ Let's see what is inside of each of sections:
 </details>
 ****
 <details>
-<summary>Value Driven Delivery</summary>
+<summary>Value Driven Development/Delivery</summary>
 <pre>
 
   `WIP`
@@ -186,7 +187,7 @@ Let's see what is inside of each of sections:
 </details>
 ****
 <details>
-<summary>Leading and Growing</summary>
+<summary>Leadership & Transformation</summary>
 <pre>
   `WIP`
   1. A numbered
