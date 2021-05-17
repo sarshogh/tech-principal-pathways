@@ -8,9 +8,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-## Software Tech Principle
+#  Tech Prinicple Insight
 ****
->  To be come an `insightful Tech Principle Dev`, 
+>  To be come a insightful `Software Tech Principle`, 
 I would like to recommend following road map to be taken for this role!
 
 So, first and formost, at core, is all about capabilitis and strengths.
@@ -38,19 +38,25 @@ Let's see what is inside of each of sections:
 
 `Personal Strengths`:
 
-  1. Ownership and accountability
-  2. Outcome based driver
-  3. Dynamic slow motion multitasking
-  4. Emotional intelligence
-  5. Collaboration
-  6. Feedback
+  1. Learning ability
+  2. Math, statistic fundumental knowledge  
+  3. First Principle Thinking
+  4. Second Order Thikning
+  5. Ownership and accountability
+  6. Outcome based driver
+  7. Dynamic slow motion multitasking
+  8. Emotional intelligence
+  9. Collaboration
+  10. Feedback
      * Giving
      * Reciving
-  7. Simplification & navigating through ambigiuty
-  8. Working Remotely
-  9. System Thinking
-  10. Story telling/ explaining
-  11. continusly improving
+  11. Simplification & navigating through ambigiuty
+  12. Working Remotely
+  13. System Thinking
+  14. Story telling/ explaining
+  15. continusly improving
+  16. Creative thinking
+  17. Listening effectively
 
 
 `Team capabilities`:
@@ -70,25 +76,82 @@ Let's see what is inside of each of sections:
 
 `Personal Skill Level`
 
-  1. Competency level :
+  1. Competency level ( skill measurement) :
      * Novice
      * Advanced beginner
      * Practitioner
      * Proficient
      * expert
   2. Soft consultancy skills
-     1. 
+     1. Business awareness
+     2. Agile and Lean Principles
+     3. Influencing 
+     4. Persuading
+     5. Communication (Oral/Written)
+     6. Negotiation
+     7. Facilitation
+     8. Conflict resolution
+     9. Value articulation
+     10. Self confidence
+     11. Teamwork
+     12. Team building
+     13. Positive attitude
+     14. Work under pressure
+     15. Time management
+     16. Adaptibility
+     17. Listening effectively
+     18. Sociable
+     19. Work Ethic
+     20. Design thinking "Double Diamond"
   3. Technical skills
-     1. 
+     1. Multi-paradigm programming
+     2. Source control management
+     3. Estimation
+     4. DB management
+     5. System thinking
+     6. Clean code
+     7. API and Service Design
+     8. Continus Integration
+     9. Continus Deployment
+     10. Enterpersise Architecture
+     11. Web Architecutre
+     12. Web Development
+     13. Path to Prod
+     14. TDD
+     15. DDD
+     16. Testable solutions
+     17. Technical visioning
+     18. Release management
+     19. Feature development
+     20. Cloud native architecutre
+     21. Cross Functional development
+     22. Backend/Frontend development
+     23. Distributed system architechture
+     24. Security governance
+     25. System monitoring
+     26. CI/CD
+     27. Dependency management
+     28. Software currency 
+     29. Team structure
+     30. Team skill enhancer
+     31. Legacy migrations
+     32. Data management
+     33. Encryption and decryption
   4. Coaching and Mentoring
-     1. 
+     1. Pairing
+     2. Questioning
+     3. 
   5. Leadership skils
      1. Questioninig
      2. Negotiation
-     3. Delgting
+     3. Delegation
+     4. Giving directions
+     5. Providing standards and conventions
+     6. Facilitating sessions
+     7. ....
   6. Others
      1. Documenting
-     2. STAR 
+     2. STAR explaining 
      3. 10 finger typing
      4. Classifying
      5. Decision tree making
