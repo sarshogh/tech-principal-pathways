@@ -11,24 +11,8 @@ intro_image_hide_on_mobile: false
 # .:: Insights ::.
 ## Tech Principle A-Z
 ****
->  To be come an insightful `Software Tech Principle`, 
-I would like to recommend following road map to be taken for this role!
-
-So, first and formost, at core, is all about capabilitis and strengths.
->> Almost everyone should focus on understanding its own capabilities. For instance you are capable of thinking out of the box! or, you have a mindset of problem solving! studying them, practice them and make them to work!
-
-Secondly, Skills set! 
->> you need to obtains set of skills as a tech pricinples. Programming is just one of them!
-   
-Thirdly, Domain knoweldge! It's challenging but you got to broaden your knowlegde. 
->> Like how fincance protocol works! What is GDPR?
-
-At forth, Do it. deliver the desired outcome. 
->> Professionals do the job and get right value done out of their time!
-   
-At last, is a leadership 
->> like a warrior.
-
+To be come an insightful `Software Tech Principle`,  
+it's necessary to know how its role and its road map looks like! what abilities and skills required for this role and what other domains and techniques and challenges a Tech Principle should have faced!
 ****
 ## Big Picture In Depth!
 Let's see what is inside of each of sections:
@@ -197,3 +181,19 @@ Let's see what is inside of each of sections:
 </pre>
 </details>
 ****
+
+## First 200 words about Big Picture
+
+1. First and formost, at core, is all about capabilitis and strengths.
+ Almost everyone should focus on understanding its own capabilities. For instance you are capable of thinking out of the box! or, you have a mindset of problem solving! studying them, practice them and make them to work!
+
+2. Secondly, Skills set! 
+you need to obtains set of skills as a tech pricinples. Programming is just one of them!
+   
+3. Thirdly, Domain knoweldge! It's challenging but you got to broaden your knowlegde. 
+Like how fincance protocol works! What is GDPR?
+
+1. At forth, Delivering and development (build a right thing in a right way)! 
+Professionals do the job and get a right value done from their time!
+   
+5. At last, is about leading teams and cultivating members to grow and shine!
