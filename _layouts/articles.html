@@ -7,39 +7,31 @@ bodyClass: page-articles-list
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {% include search-lunr.html %}
         <h1>Articles</h1>
         {% include reading-time.html %}
         {{ content }}
       </div>
-      {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</div>
+        {% include search-lunr.html %}
 
-<div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {% for article in site.articles %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
-            </h2>
-            <p>{{ article.content | markdownify | strip_html | truncate: 100 }}</p>
+        <div class="strip">
+          <div class="container pt-6 pb-6 pb-md-10">
+            <div class="row justify-content-start">
+              {% for article in site.articles %}
+              <div class="col-12 col-md-12 mb-12">
+                <div class="service service-summary">
+                  <div class="service-content">
+                    <h2 class="service-title">
+                      <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+                    </h2>
+                    <p>{{ article.content | markdownify | strip_html | truncate: 100 }}</p>
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
           </div>
         </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "articles" | relative_url }}">View All Articles</a>
       </div>
     </div>
   </div>
