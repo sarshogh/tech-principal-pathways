@@ -1,4 +1,3 @@
-## Articles
 You will find asnwer for following questions:
 > *: You mean Tech priciple engineer/consultant
 
