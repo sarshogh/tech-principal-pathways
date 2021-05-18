@@ -5,46 +5,19 @@ layout: page
 bodyClass: page-about
 ---
 
-The Software Tech Pricinple Deep Dive, is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
+"The Tech Pricinple Deep Dive":
 
-## Ne verba patulosque numen vix libet
+****
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+It is a reference for everyone who aims to grow in IT and Software technology world and become master in their journey.
+At the end of this road you become an expert which I would like to call it "Technology Pricinple".
+ 
+### Simply means: an insighful professinal leader and transformer!
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+This website contains fundumental basics, concepts, growth roadmaps, techniques, different lenses as well as inisghts to role of Tech principle activities and effects.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+'From Author': 
+> My ultimate aim is to become a top rank source of mentoring Tech Principles around the world by providing trainings and coaching using this website and other social media channels, throughout latest technology tools, real world challenges. 
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.

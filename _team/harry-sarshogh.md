@@ -3,7 +3,7 @@ title: "Harry Sarshogh"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/hs.png"
-jobtitle: "Director"
+jobtitle: "Author, Director"
 linkedinurl: "www.linkedin.com/in/ali-sarshogh"
 promoted: true
 weight: 1
