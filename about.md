@@ -1,12 +1,9 @@
 ---
-title: 'About'
+title: 'About Tech Pricinple Deep Dive'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
-
-"The Tech Pricinple Deep Dive":
-
 ****
 
 It is a reference for everyone who aims to grow in IT and Software technology world and become master in their journey.

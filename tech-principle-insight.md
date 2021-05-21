@@ -197,3 +197,23 @@ Like how fincance protocol works! What is GDPR?
 Professionals do the job and get a right value done from their time!
    
 5. At last, is about leading teams and cultivating members to grow and shine!
+
+
+
+
+## WIP: How a tech principle look like? 
+Let's be clear What I would like to offer here, it's a unique big picutre first which every software engineer with any level of knoweldge can digest it easily. 
+
+Then narrative look to each peice of this big picture where you can : 
+ - understand the basics, fundumentals
+ - understand why behind the how each 
+ - undersand when and what activity to do 
+ - understand the different road map to grow your capabilities
+ - learn and practice
+    -  scope and boundry 
+    -  pattern and industry best practices
+ - what tools and techniques 
+ - what patterns and frameworks
+ - what methods and how to use them
+
+ TBC:
