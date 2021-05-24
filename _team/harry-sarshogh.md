@@ -12,9 +12,9 @@ layout: team
 ## HelloOoOoO You 
 
 I am Harry and welcome to my profile.
-> I am author and owner of the "Software Tech principle Deep Dive" website.
+> I am author and owner of the "Software Tech Principal Deep Dive" website.
 
-I would like to draw your attention to a little story below where you will find why this website gives you best insights about Software Technology Principle Role.
+I would like to draw your attention to a little story below where you will find why this website gives you best insights about Software Technology Principal Role.
 
 Please thumb up if you found this interesting!
 
@@ -40,7 +40,7 @@ That's why I would like to say, every day one cell growing!
 > Later on, I will bring up another article about spectrum of each cell! let's move forward for now. 
 
 I work at Thoughtworks in London, UK. 
-In 2020, I was lucky to work with several principle consultants at Thoughtworks. I was surprised how strong they were! Great in any aspect! They are excellent in understanding things, discussing, advising, navigating through ambiguties, negotiating, managements, designing, out of box thinking, system thinking, technical architecting, management, coaching, mentoring....
+In 2020, I was lucky to work with several principal consultants at Thoughtworks. I was surprised how strong they were! Great in any aspect! They are excellent in understanding things, discussing, advising, navigating through ambiguties, negotiating, managements, designing, out of box thinking, system thinking, technical architecting, management, coaching, mentoring....
 
 > I wanted to be like them!
 
@@ -74,7 +74,7 @@ Every adventure journey or even solving a problem has loads of trial and errors!
 ## Finally! 
 ----
 
-I got an idea! let's gather every topic I know and I don't know! Any topic involved in Tech Principle Role, then catergorized them and then we go deep dive based on their level of criticallity!
+I got an idea! let's gather every topic I know and I don't know! Any topic involved in Tech Principal Role, then catergorized them and then we go deep dive based on their level of criticallity!
 
 > It went well! Hurraaaay 
 

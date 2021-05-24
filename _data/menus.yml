@@ -1,6 +1,6 @@
 main:
   - name: "Insight"
-    url: "/tech-principle-insight/"
+    url: "/tech-principal-insight/"
     weight: 2
   - name: "Articles"
     url: "/articles/"

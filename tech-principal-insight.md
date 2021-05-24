@@ -2,7 +2,7 @@
 title: 'The Tech Principal Deep Dive'
 bodyClass: page-all-in-1-list
 layout: tech-principle-insight
-description: The Software Tech Pricinple is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
+description: The Software Tech Principal is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology principal. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
 intro_image: "images/all-in-1/role-big-picture.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
@@ -190,7 +190,7 @@ Let's see what is inside of each of sections:
  Almost everyone should focus on understanding its own capabilities. For instance you are capable of thinking out of the box! or, you have a mindset of problem solving! studying them, practice them and make them to work!
 
 2. Secondly, Skills set! 
-you need to obtains set of skills as a tech pricinples. Programming is just one of them!
+you need to obtains set of skills as a Tech Principal. Programming is just one of them!
    
 3. Thirdly, Domain knoweldge! It's challenging but you got to broaden your knowlegde. 
 Like how fincance protocol works! What is GDPR?
@@ -203,7 +203,7 @@ Professionals do the job and get a right value done from their time!
 
 
 
-## WIP: How a tech principle look like? 
+## WIP: How a Tech Principal  look like? 
 Let's be clear What I would like to offer here, it's a unique big picutre first which every software engineer with any level of knoweldge can digest it easily. 
 
 Then narrative look to each peice of this big picture where you can : 

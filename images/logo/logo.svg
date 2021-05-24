@@ -9,6 +9,6 @@
     <path id="path-1" d="M 55.958 49.959 C 105.517 74.193 148.699 85.723 192.619 90.887 L 202.426 92.332 C 206.602 93.248 211.599 95.096 215.94 94.001" style="fill: none;"/>
   </defs>
   <title>logo</title>
-  <text transform="matrix(0.876277, 0, 0, 0.939358, 8.22451, 16.565521)" style="fill: rgb(250, 1, 1); font-family: Mina; font-size: 38px; font-weight: 700; paint-order: fill; stroke: rgba(238, 19, 19, 0.93); stroke-width: 0px; white-space: pre;"><tspan x="4.769" y="13.331">Tech Principle</tspan><tspan x="4.769" dy="1.3em">​</tspan></text>
-  <text transform="matrix(0.619091, -0.165331, 0.047987, 0.695535, 88.578888, 26.692917)" style="fill: rgb(22, 2, 242); font-family: Candal; font-size: 29.3741px; white-space: pre;"><textPath xlink:href="#path-1">Deep Dive</textPath></text>
+  <text transform="matrix(0.876277, 0, 0, 0.939358, 8.22451, 16.565521)" style="fill: rgb(250, 1, 1); font-family: Mina; font-size: 38px; font-weight: 700; paint-order: fill; stroke: rgba(238, 19, 19, 0.93); stroke-width: 0px; white-space: pre;"><tspan x="4.769" y="13.331">Tech Principal</tspan><tspan x="4.769" dy="1.3em">​</tspan></text>
+  <text transform="matrix(0.619091, -0.165331, 0.047987, 0.695535, 88.578888, 26.692917)" style="fill: rgb(22, 2, 242); font-family: Candal; font-size: 29.3741px; white-space: pre;"><textPath xlink:href="#path-1">Pathways</textPath></text>
 </svg>

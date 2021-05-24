@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'The Software Tech Principle'
+title: 'Software Tech Principal Pathways'
 
 google_analytics_id: ""
 
@@ -13,14 +13,14 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Licenced by MIT <a class="zerostatic" href="https://sarshogh.github.io/the-tech-principle/"> Harry Sarshogh</a>'
+  copyright_text: 'Licenced by MIT <a class="zerostatic" href="https://techprincipalpathways.com/"> Harry Sarshogh</a>'
 
 seo:
-  meta_og_title: "The Software Tech Principle"
+  meta_og_title: "Software Tech Principal Pathways"
   meta_og_type: "website"
   meta_og_url: "www.linkedin.com/in/ali-sarshogh"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "The Software Tech Pricinple is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions."
+  meta_og_description: "The Software Tech Principal is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology principal. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions."
   meta_twitter_card: "summary"
   meta_twitter_site: "@Ali_Sarshogh"
   meta_twitter_creator: "@Ali_Sarshogh"

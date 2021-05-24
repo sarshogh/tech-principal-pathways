@@ -33,10 +33,10 @@ Faithful representation means that the actual effects of the transactions shall 
 ## Enhancing Qualitative Characteristics
 
 ### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principal of objectivity.
 
 ### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Comparability is the uniform application of accounting methods across entities in the same industry. The principal of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
 
 ### Understandability
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
