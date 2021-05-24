@@ -51,4 +51,4 @@ exclude:
   - vendor/ruby/
   - LICENSE.md
   - LICENSE
-  - README.md
+  - README.md 
