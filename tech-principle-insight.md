@@ -1,5 +1,5 @@
 ---
-title: 'The Tech Principle Deep Dive'
+title: 'The Tech Principal Deep Dive'
 bodyClass: page-all-in-1-list
 layout: tech-principle-insight
 description: The Software Tech Pricinple is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology pricinple. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
@@ -8,12 +8,14 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# .:: Insights ::.
-## Tech Principle A-Z
+# Insights
+## Tech Principal Role Deep Dive
 ****
-To be come an insightful `Software Tech Principle`,  
-it's necessary to know how its role and its road map looks like! what abilities and skills required for this role and what other domains and techniques and challenges a Tech Principle should have faced!
+To be come an insightful `Software Tech Principal`, 
+It is necessary to know what abilities and skills required for this role, and what other domains, tools and techniques needed to be used to deliver high quality outcome as well as leading others.!
+
 ****
+
 ## Big Picture In Depth!
 Let's see what is inside of each of sections:
 
