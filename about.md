@@ -1,10 +1,12 @@
 ---
-title: 'About Tech Principal Deep Dive'
+title: 'Tech Principal Pathways'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 ****
+
+### Formerly named "Tech Principal Deep Dive"
 
 It is a reference for everyone who aims to grow in IT and Software technology world and become master in their journey.
 At the end of this road you become an expert which I would like to call it "Technology Principal".
