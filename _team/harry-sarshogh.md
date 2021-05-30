@@ -12,11 +12,11 @@ layout: team
 ## HelloOoOoO You 
 
 I am Harry and welcome to my profile.
-> I am author and owner of the "Software Tech Principal Deep Dive" website.
+> I am author of the "Tech Principal Pathways" website.
+>> Formerly named "Tech Prinicpal Deep Dive".
 
 I would like to draw your attention to a little story below where you will find why this website gives you best insights about Software Technology Principal Role.
 
-Please thumb up if you found this interesting!
 
 ### Not too long, just read it ;)
 
