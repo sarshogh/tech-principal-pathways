@@ -2,6 +2,6 @@
 title: "Regulations to know"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 3
+weight: 50
 layout: article
 ---
