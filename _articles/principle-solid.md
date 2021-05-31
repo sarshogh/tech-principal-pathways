@@ -4,10 +4,10 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 107
 layout: article
-tags: priniciple, developers, source-code 
+tags: priniciple developers source-code-structure  
 ---
 <details>
-<summary>Content Summary; You will read </summary>
+<summary>Content Summary; What you will read are: </summary>
 <pre> 
   1. Why SOLID?
   2. What is SOLID?
@@ -17,7 +17,7 @@ tags: priniciple, developers, source-code
      * I
      * D
   3.  Usecases
-  4.  How to apply?
+  4.  How to apply SOLID in your project?
  </pre>
 </details>
 
@@ -34,5 +34,5 @@ The SOLID principles are a set of software design principles which help us to un
 
 ## What are SOLID Usecases?
 
-## How to do SOLID in your project?
+## How to apply SOLID in your project?
 ****

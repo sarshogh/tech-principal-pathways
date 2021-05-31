@@ -9,7 +9,11 @@ layout: default
         <h1 class="title">{{page.title}}</h1>
         {% include reading-time.html %}
         <div class="content">{{content}}</div>
-        <div class="tags">{{page.tags}}</div>
+        <div class="tags">
+            {% for member in page.tags | split: ' '  %}
+            <span class="badge badge-pill badge-info p-1">{{ member }}</span>
+            {% endfor %}
+        </div>
       </div>
     </div>
   </div>
