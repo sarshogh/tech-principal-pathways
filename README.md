@@ -1,6 +1,8 @@
-# Tech Principal 'Role' Deep Dive
+# Tech Principal Pathways
 
-Hi there,
+### Formerly called The Tech Principal '\Role/' Deep Dive
+
+Hi There,
 
 I am Harry Sarshogh, 
 and this is my personal blog where I keep my notes, share my knowledge as a software developer to world.

@@ -1,8 +1,8 @@
 ---
-title: 'The Tech Principal Deep Dive'
+title: 'Tech Principal Pathways'
 bodyClass: page-all-in-1-list
 layout: tech-principle-insight
-description: The Software Tech Principal is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology principal. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
+description: The Software Tech Principal Pathways is a reference website for IT & software engineers/developers/consultant who aims to grow to become a technology principal. This website contains fundumental basics, concepts, growth roadmaps, techniques, why and hows as well as inisghts to technolgy focusing on delivering value to readers. The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
 intro_image: "images/all-in-1/role-big-picture.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
