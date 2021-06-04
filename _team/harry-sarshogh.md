@@ -9,7 +9,7 @@ promoted: true
 weight: 1
 layout: team
 ---
-## HelloOoOoO You 
+## Hello There 
 
 I am Harry and welcome to my profile.
 > I am author of the "Tech Principal Pathways" website.
