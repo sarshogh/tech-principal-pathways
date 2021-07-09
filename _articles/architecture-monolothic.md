@@ -1,1 +1,0 @@
-monolithic application (example, the web controller, or the backend-for-frontend)
