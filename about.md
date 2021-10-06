@@ -1,7 +1,7 @@
 ---
-title: 'Tech Principal Pathways'
-date: 2018-02-22T17:01:34+07:00
+title: About
 layout: page
+description: About
 bodyClass: page-about
 ---
 ****

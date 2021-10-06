@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-bodyClass: page-contact
+description: Contact
 ---
 
 You can send email to 'harry.sarshogh@gmail.com' to book a free consultancy session for your business.
