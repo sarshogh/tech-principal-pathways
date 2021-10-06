@@ -27,17 +27,10 @@ $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap
-<<<<<<< HEAD
-@import 'bootstrap-variables';
-@import 'bootstrap/bootstrap-reboot';
-@import 'bootstrap/bootstrap-grid';
-@import 'bootstrap/bootstrap'; // comment this line to not import the entire Bootstrap library
-=======
 @import "bootstrap-variables";
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
->>>>>>> 0c94e7c22797b5290c9eb0017579c72d253b95cf
+@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
