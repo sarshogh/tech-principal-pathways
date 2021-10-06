@@ -3,7 +3,7 @@ permalink: pretty
 title: 'Software Tech Principal Pathways'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-mobile.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
@@ -12,10 +12,12 @@ logo:
 
 collections:
   articles:
-    output: true
+    output: false
   services:
-    output: true
+    output: false
   team:
+    output: true
+  workshops:
     output: true
 
 defaults:
@@ -29,6 +31,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "workshops"
+    values:
+      layout: "service"
 
 sass:
   indentWidth: 4
