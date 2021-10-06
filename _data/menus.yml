@@ -5,10 +5,10 @@ main:
   - name: "Articles"
     url: "/articles/"
     weight: 3
-  - name: "Services"
-    url: "/services/"
+  - name: "Workshops"
+    url: "/workshops/"
     weight: 4
-  - name: "Team"
+  - name: "Auther"
     url: "/team/"
     weight: 5
   - name: "About"
