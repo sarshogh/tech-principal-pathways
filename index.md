@@ -5,6 +5,7 @@ description: The Software Tech Principal Pathways is a reference website for IT 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
 # How To Be "The"
