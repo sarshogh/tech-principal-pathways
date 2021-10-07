@@ -1,9 +1,9 @@
 ---
 title: "Cloud Readiness Workshop"
-date: 2018-11-18T12:33:46+10:00
-featured: true
-weight: 6
+date: 2021-10-07T10:47:58+10:00
+draft: false
+image: "images/team/hs.png"
+weight: 1
 layout: service
+cost: £50
 ---
-
-WIP

@@ -1,9 +1,9 @@
 ---
 title: "Team Modernisation Workshop"
-date: 2018-11-28T15:14:54+10:00
-featured: true
-weight: 5
+date: 2021-10-07T10:47:58+10:00
+draft: false
+image: "images/team/hs.png"
+weight: 3
 layout: service
+cost: £50
 ---
-
-WIP

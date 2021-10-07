@@ -1,9 +1,11 @@
 ---
 title: "Agile Fluency Workshop"
-date: 2018-11-28T15:15:26+10:00
-featured: true
-weight: 3
+date: 2021-10-07T10:47:58+10:00
+draft: false
+image: "images/team/hs.png"
+promoted: true
+weight: 2
 layout: service
+cost: £50
 ---
 
-WIP

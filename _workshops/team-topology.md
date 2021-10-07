@@ -1,9 +1,9 @@
 ---
 title: "Team Topology Workshop"
-date: 2018-11-28T15:15:34+10:00
-featured: true
+date: 2021-10-07T10:47:58+10:00
+draft: false
+image: "images/team/hs.png"
 weight: 4
 layout: service
+cost: £50
 ---
-
-WIP
