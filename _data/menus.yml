@@ -1,5 +1,5 @@
 main:
-  - name: "Insight"
+  - name: "Insights"
     url: "/tech-principal-insight/"
     weight: 1
   - name: "Articles"
@@ -8,7 +8,7 @@ main:
   - name: "Workshops"
     url: "/workshops/"
     weight: 3
-  - name: "team"
+  - name: "Team"
     url: "/team/"
     weight: 4
   - name: "About"
