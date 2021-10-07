@@ -1,2 +1,10 @@
 .page-home {
+    .feature {
+        border:5px solid $white-offset;
+    }
+    .service {
+        background-color: $steel;
+        height: 400px;
+        border-radius: 5%;
+    }
 }

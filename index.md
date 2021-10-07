@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# How To Be "The"
-## Software Tech Principal
+## How To Be "The"
+#  Tech Principal
 
 A solid guideline for IT & software engineers, developers, consultant who aim to be competent as an insighfult professional technology principal in their career.
