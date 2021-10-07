@@ -1,9 +1,10 @@
 ---
-title: "PII law"
+title: "Techniques"
+description: List of techniques a technologiest must know
+image_url: "images/features/noun_The Process_1885341.svg"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 2
-layout: article
+weight: 6
 ---
 
 As a software Technology Principal, you must be aware of loads of principals and advice others about each of them in depth.

@@ -13,6 +13,8 @@ logo:
 collections:
   articles:
     output: false
+  articlesCategories:
+    output: true
   services:
     output: false
   team:

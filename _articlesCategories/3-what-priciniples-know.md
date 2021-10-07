@@ -1,9 +1,10 @@
 ---
-title: "PII law"
+title: "Principles"
+description: List of principals a technolgoist must know
+image_url: "images/features/noun_The Process_1885341.svg"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 2
-layout: article
+weight: 3
 ---
 
 As a software Technology Principal, you must be aware of loads of principals and advice others about each of them in depth.
