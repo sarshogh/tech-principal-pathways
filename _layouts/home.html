@@ -43,17 +43,18 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
-<div class="strip strip-grey">
+<div class="strip strip-grey workshop">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.workshops %}
+      {% assign workshops = site.workshops | where: "promoted", true | sort: "weight" %}
+      {% for ws in  workshops %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
-          <div class="service-content">
+          <div class="service-content text-center">
             <h3 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              <a href="{{ ws.url | relative_url }}" class="pt-6 text-white">{{ ws.title }}</a>
             </h3>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+              <img src="{{ ws.image }}" alt="{{ws.title}}" class="img-thumbnail">
           </div>
         </div>
       </div>

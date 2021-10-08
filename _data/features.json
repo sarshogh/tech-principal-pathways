@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Technical Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Technical Consultation",
+    "description": "Offering technology consultancy that integrates strategy, design and software engineering",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Tech Principals",
-    "description": "All members of our team are certified accountants.",
+    "title": "Online Tech Workshops",
+    "description": "Offering high quality interactive workshops for software engineers, product owners and project manager",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tech @ Core",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Cloud Migration",
+    "description": "Offering up scalling workshops for cloud readiness migration for small/mid size companies",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
