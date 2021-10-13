@@ -2,13 +2,15 @@
 title: Workshops
 layout: workshops
 description: Workshops
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/workshops/bg.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 collection: workshop
 ---
 
-# Workshops that grow with your skills and knowledge
+# Workshops 
+
+## that grow with your skills and knowledge
 
 Practical online workshops designed to boost your knowledge and skills very quick.
 You can simply show your interest to any following sections and automatically you will receive email and invitation to Zoom channel where all workshops gets held.
