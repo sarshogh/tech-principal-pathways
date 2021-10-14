@@ -11,22 +11,22 @@
   },
   {
     "name": "Linkedin",
-    "link": "https://twitter.com/Ali_Sarshogh",
-    "image": "images/social/twitter.svg"
+    "link": "https://linkedin.com/company/tech-principal-pathways",
+    "image": "images/social/linkedin.svg"
   },
   {
     "name": "Facebbook",
-    "link": "https://twitter.com/Ali_Sarshogh",
-    "image": "images/social/twitter.svg"
+    "link": "https://www.facebook.com/TechPrincipalPathways",
+    "image": "images/social/fb.png"
   },
   {
     "name": "Instagram",
-    "link": "https://twitter.com/Ali_Sarshogh",
-    "image": "images/social/twitter.svg"
+    "link": "https://www.instagram.com/techprincipalpathways/",
+    "image": "images/social/instagram.svg"
   },
   {
     "name": "Youtube",
-    "link": "https://twitter.com/Ali_Sarshogh",
-    "image": "images/social/twitter.svg"
+    "link": "https://www.youtube.com/channel/UCv4mEojvX2gAV5n4_4R9rbA",
+    "image": "images/social/youtube.svg"
   }
 ]

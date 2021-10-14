@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Software Tech Principal Pathways'
 
 logo:
-  mobile: "images/logo/logo-mobile.png"
+  mobile: "images/logo/logo.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.svg"
   desktop_height: "64px"
   desktop_width: "120px"
 
