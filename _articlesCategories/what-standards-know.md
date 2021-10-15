@@ -1,4 +1,5 @@
 ---
+categoryId: "4"
 title: "Standards"
 description: List of standards a technolgoist must know
 image_url: "images/features/noun_The Process_1885341.svg"

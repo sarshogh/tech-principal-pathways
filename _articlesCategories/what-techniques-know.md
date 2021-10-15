@@ -1,9 +1,10 @@
 ---
-title: "Principles"
-description: List of principals a technolgoist must know
+categoryId: "6"
+title: "Techniques"
+description: List of techniques a technologiest must know
 image_url: "images/features/noun_The Process_1885341.svg"
 featured: true
-weight: 3
+weight: 6
 ---
 
 As a software Technology Principal, you must be aware of loads of principals and advice others about each of them in depth.
