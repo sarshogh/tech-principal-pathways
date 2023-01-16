@@ -24,9 +24,7 @@ Let's see what is inside of each of sections:
 <pre> 
 
 `Personal Strengths`:
-
-  1. Learning ability
-  2. Math, statistic fundumental knowledge  
+ 
   3. First Principle Thinking
   4. Second Order Thikning
   5. Ownership and accountability
@@ -139,10 +137,9 @@ Let's see what is inside of each of sections:
   6. Others
      1. Documenting
      2. STAR explaining 
-     3. 10 finger typing
      4. Classifying
      5. Decision tree making
-     6. Running brain stroming session 
+     6. Running brain stroming session/ Tech Huddle
 
 </pre>
 </details>
