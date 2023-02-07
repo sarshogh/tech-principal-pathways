@@ -10,5 +10,7 @@ bodyClass: page-article-list
 intro_image: "images/articles/architecture/home.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-description: I like to write my day to day activity as Architect and share my experience with everyone through my personal website.  
+description:  
 ---
+
+I like to write my day to day activity as Architect and share my experience with everyone through my personal website
