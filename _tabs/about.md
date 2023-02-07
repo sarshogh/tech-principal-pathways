@@ -1,10 +1,8 @@
 ---
-title: About
-layout: page
-description: About
-bodyClass: page-about
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
-****
 
 ### Formerly named "Tech Principal Deep Dive"
 
@@ -20,3 +18,4 @@ This website contains fundumental basics, concepts, growth roadmaps, techniques,
 > My ultimate aim is to become a top rank source of mentoring Tech Principal around the world by providing trainings and coaching using this website and other social media channels, throughout latest technology tools, real world challenges. 
 
 The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
+{: .prompt-tip }
