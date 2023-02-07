@@ -1,0 +1,29 @@
+{
+  "name": "techprincipalpathways",
+  "version": "0.0.1",
+  "description": "TODO",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarshogh/tech-principal-pathways.git"
+  },
+  "author": "Harry Sarshogh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarshogh/tech-principal-pathways.git/issues"
+  },
+  "homepage": "https://github.com/sarshogh/tech-principal-pathways.git#readme",
+  "scripts": {
+    "test": "npx stylelint _sass/**/*.scss",
+    "fixlint": "npx stylelint _sass/**/*.scss --fix"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard-scss": "^5.0.0",
+    "uglify-js": "^3.14.3"
+  }
+}

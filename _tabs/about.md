@@ -4,18 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Formerly named "Tech Principal Deep Dive"
-
-It is a reference for everyone who aims to grow in IT and Software technology world and become master in their journey.
-At the end of this road you become an expert which I would like to call it "Technology Principal".
- 
-### Simply means: an insighful professinal leader and transformer!
-
-This website contains fundumental basics, concepts, growth roadmaps, techniques, different lenses as well as inisghts to role of Tech Principal activities and effects.
-
-
-'From Author': 
-> My ultimate aim is to become a top rank source of mentoring Tech Principal around the world by providing trainings and coaching using this website and other social media channels, throughout latest technology tools, real world challenges. 
-
-The Tech Priciples offers a growth model to small-enterprise businesses, offers digital transformations, tech-at-core solutions.
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }

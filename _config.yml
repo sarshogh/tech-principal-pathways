@@ -19,18 +19,18 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tech Principal Pathways                         
+title: Tech Principal                           # the main title
 
-tagline: Software and Cloud Architect    # it will display as the sub-title
+tagline: Pathways  # it will display as the sub-title
 
-description: >-                         # used by seo meta and the atom feed
+description: >-                        # used by seo meta and the atom feed
   How to become insightful tech professional in software and cloud
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://techprincipalpathways.com'
 
 github:
-  username: sarshogh             # change to your github username
+  username: sarshogh           # change to your github username
 
 twitter:
   username: Ali_Sarshogh            # change to your twitter username
@@ -78,16 +78,16 @@ theme_mode:    [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/commons/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
-  active: 'disqus'        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'disqus'         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname

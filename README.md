@@ -3,10 +3,9 @@
 ### Formerly called The Tech Principal '\Role/' Deep Dive
 
 Hi There,
+Welcome to Tech-Principal Pathways!
 
-I am Harry Sarshogh, 
-and this is my personal blog where I keep my notes, share my knowledge as a software developer to world.
+I am Harry Sarshogh, and this is my personal weblog where I keep my notes, and share my knowledge to world.
 
-So Welcome to my weblog.
-[Very thanks for visiting my page](https://techprincipalpathways.com/team/harry-sarshogh/) 
+[Thanks for visiting my page](https://techprincipalpathways.com/about/) 
 
