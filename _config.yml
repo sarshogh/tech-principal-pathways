@@ -19,12 +19,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tech Principal                           # the main title
+title: Tech Principal        # the main title
 
 tagline: Pathways  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  How to become insightful tech professional in software and cloud
+  How to become insightful tech professional in software, cloud and IT
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://techprincipalpathways.com'
@@ -78,10 +78,10 @@ theme_mode:    [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://chirpy-img.netlify.app'
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/assets/img/tpp.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
