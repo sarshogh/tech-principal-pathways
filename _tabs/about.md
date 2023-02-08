@@ -23,3 +23,7 @@ One of the sections of my posts which is to discuss and publish my opinion aroun
 
 I hope sharing my experience here helps other people to grow.
 
+
+It's fair to mention that one of the great resoures helped me to shape this website is <a href="https://martinfowler.com/"> Martin Fowler </a> since so many tech pioneers and great engineers are publishing their great works throught  and also have loads of questions and comments for them 
+
+I dedicated a lot of time to teach myself and practice loads of engineering practices,  and 
