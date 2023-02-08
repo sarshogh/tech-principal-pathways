@@ -1,8 +1,8 @@
 ---
 title: Preperation for Architect Role
 date: 2023-02-07 11:00:00 +GMT
-categories: [Architecture, software/cloud]
-tags: [pathway, preparation]
+categories: [Architecture, Application]
+tags: [pathway, preparation, software architecture, cloud architecture]
 author: h_s
 toc: true
 comments: true

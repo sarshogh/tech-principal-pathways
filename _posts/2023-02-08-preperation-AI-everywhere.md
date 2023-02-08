@@ -1,8 +1,8 @@
 ---
 title: AI saves humanity from humans
-date: 2023-02-07 11:00:00 +GMT
-categories: [AI, software/cloud]
-tags: [AI, preparation]
+date: 2023-02-08 11:00:00 +GMT
+categories: [AI, MachineLearning]
+tags: [ai, chat-gpt, bing, google, open-ai]
 author: h_s
 toc: true
 comments: true
@@ -20,4 +20,6 @@ One thing cross my mind, AI can help humans to find a pure solid information and
 Actually I think 
 
 <h1> AI saves Humanity from Humans </h1>
+
+look at the bright side not being affraid of AI. 
 
