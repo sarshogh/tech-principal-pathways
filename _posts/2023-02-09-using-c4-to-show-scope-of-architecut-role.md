@@ -1,5 +1,5 @@
 ---
-title: Look at architect role like C4 Modeling
+title: Using C4 modeling for architect role
 date: 2023-02-09 12:00:00 +GMT
 categories: [archetypes, architect-role]
 tags: [architect, archetype, architect-responsibility]
