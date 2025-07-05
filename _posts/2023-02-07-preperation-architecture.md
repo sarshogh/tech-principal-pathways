@@ -30,7 +30,7 @@ Luckily, based on TEDx Talk <a href="https://www.youtube.com/watch?v=5MgBikgcWnY
 {: .prompt-info }
 
 <details>
-<summary>Preperation for AWS Cloud Solution Architecture Role</summary>
+<summary>Preperation for AWS Cloud Solution Architect Role</summary>
 <pre> 
 I'd like to start taking these steps for the preperation period: 
 
