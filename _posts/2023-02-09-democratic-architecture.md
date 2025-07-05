@@ -1,5 +1,5 @@
 ---
-title: Democratic Software Architecture
+title: Democratic Cloud & Software Architecture
 date: 2023-02-09 12:00:00 +GMT
 categories: [archetypes, architect-role]
 tags: [architect, archetype, architect-responsibility]
