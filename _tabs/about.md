@@ -2,28 +2,38 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-auther: h_s
-
+author: h_s
 ---
 
 ### Formerly named <b> "Tech Principal Deep Dive" </b>
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-I am Harry Sarshogh, thanks for visiting my website.  
+Hi, I’m Harry Sarshogh, an AWS Solutions Architect based in London, UK. Thanks for visiting my website.
 
-My purpose of "Tech Principal Pathways" is to share my personal experience to IT community as I'd like to become an insightful Technology Principal in my career.
+Tech Principal Pathways is my platform for sharing real-world experience, structured thinking, and practical insights with the global technology community. My long-term ambition is to grow into a highly impactful Technology Principal and visionary architect, capable of designing not only scalable systems, but entire technological ecosystems that shape the future of human life.
 
-I have been through this journey since I was a novice software developer back in 2010. In early of my carrer, I used to ask questions from myself like "how tech companies like Google, Microsoft, IBM,... can build such a great products while we were constantly failing to do so in ACS (my first workpalce)?  
+My journey in software and cloud engineering began in 2010 as a junior developer. Early in my career, I repeatedly asked myself:
+“How do world-class tech companies like Google, Microsoft, and IBM consistently build scalable, high-quality products while so many teams struggle?”
+That curiosity shaped my mindset and continues to drive my growth today.
 
-Thanks to my great curiosity and my analytical brain, I am still making progress toward my goal to make a solid resource for visualizing pathways for enginers like me to speed up their career development.
+Over the years, I have developed deep expertise in AWS cloud architecture, DevOps, Site Reliability Engineering (SRE), distributed systems, and cloud-native application design. My time at Thoughtworks played a critical role in strengthening my engineering discipline, architectural thinking, and system-level problem-solving capabilities.
 
-Luckily, during my career, I met a lot of intelligent engineers who I learned from them a lot, and special thanks to Thoughtworks where I managed to practice DevOps, SRE, Cloud Engineering, Software and Cloud Architecture more in depth and breadth and made me ready to be in job position I wanted to be. 
+I’m proud to have recently been promoted to AWS Solutions Architect in London, UK, where I focus on designing secure, scalable, and resilient architectures that support modern digital platforms and business transformation.
 
-Hence, still accumulating more knowledge around possible pathways it will be a long way get there, I found it important to document what I learn everyday during my time as Application Architecture role 
+Looking ahead, I plan to heavily invest in the fields of Artificial Intelligence, autonomous systems, robotics, and human-machine collaboration. My goal is to build a broader mental model of how AI, robotics, infrastructure, ethics, and society intersect. I’m particularly inspired by the idea of a future “city of robots and humans” — a structured, harmonious environment where intelligent machines and people coexist, collaborate, and evolve together in a safe, ethical, and meaningful way.
 
-One of the sections of my posts which is to discuss and publish my opinion around technical books I have read and provide my insights around them and share them with tech community.
+This website serves as a growing knowledge hub where I document:
 
-I hope sharing my experience here helps other people to grow.
+Practical AWS and cloud architecture patterns
 
+Career pathways for engineers aiming toward senior and principal roles
 
+My insights on AI, robotics, and emerging technologies
 
+Reflections on technical books, systems thinking, and leadership
+
+Lessons learned from real-world cloud and platform engineering projects
+
+My hope is that by openly sharing my experience, thinking, and experiments, I can help other engineers accelerate their careers while contributing to a more thoughtful, human-centered technological future.
