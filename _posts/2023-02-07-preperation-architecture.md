@@ -13,42 +13,32 @@ pin: true
 
 ---
 
-Recently I've been promoted as cloud architect.
-I found it quite hard to find a best way to describle what is my duties about before start day! 
-I feel,performaing as technology architect can be quite confusing journey specailly when you are starting this career in a completely brand new work place. 
+Recently, I was promoted to a Cloud Architect role. Before my first day, I found it surprisingly hard to clearly define what my new responsibilities would be. Starting a career as a technology architect can be a confusing journey, especially when you are beginning in a completely new workplace.
 
-Hence, decided to search around and study some books and find out other people's experience in this role.  
+Because of this, I decided to do some research, read a few books, and learn from other people’s experiences in this role.
 
-I'd like to start with first series of articles about how to prep myself one week before starting my job.
+I’d like to start a series of articles about how I prepared myself during the week before starting my new job.
 
+One thing that naturally comes to my mind is the “big picture” of what a Technology Architect looks like — someone who is competent in both AWS cloud infrastructure and AWS cloud-native application architecture. Then I think about what pieces of that puzzle I need to find, learn, and understand within the limited time and effort I can invest.
 
-One thing happens naturally in my head is that I think about what a big picture/puzzle looks like for an Technology Architect someone who is competente in of both AWS cloud infrastructure and AWS cloud native application architecture and then what pieces of that puzzle I need to find, learn and make myself aware within the time and effort I can put.
+Luckily, based on the TEDx Talk <a href="https://www.youtube.com/watch?v=5MgBikgcWnY"> “The First 20 Hours — How to Learn Anything” by Josh Kaufman </a>, I realized that I can build this big picture by spending just two or three days reading as much as I can and teaching myself with whatever resources are available to me. This helps me shape a clearer understanding of the architect role and set realistic boundaries for my preparation.
 
-Luckily, based on TEDx Talk <a href="https://www.youtube.com/watch?v=5MgBikgcWnY"> The first 20 hours -- how to learn anything by Josh Kaufman </a>, which I agree with him, I can find that big picture just by spending two three days to read as much as I can and teach myself with any available resoures I find as quickly as possible to shape the boundry of Architect role for my need.
 
 > My personal experience
 {: .prompt-info }
 
 <details>
 <summary>Preperation for AWS Cloud Solution Architect Role</summary>
-<pre> 
-I'd like to start taking these steps for the preperation period: 
+<pre>
 
 `Preperation`:
 
-  1. Study online cources 
-     * writing a page here with short description as my take aways
+  1. AWS 6 Architectural Pillars  
+     The AWS Well-Architected Framework helps you understand the pros and cons of decisions you make while building systems on AWS. Using the Framework helps you learn architectural best practices for designing and operating secure, reliable, efficient, cost-effective, and sustainable workloads in the AWS Cloud.  Link  
+     https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html
 
-  2. Study related Articles and Books
-     * giving me my opinion about each resrouce
-     * pointing out to key practical approach in each
-
-  3. Find out what are the key activiity needed for this role
-     * explaining what actions I like to do 
-
-  4. Practicing an imaginarey context
-     * applying what I learnt into practice with a sample project
-
+  2. Hybrid on-prem and cloud architecture  
+  3. Org layer, Foundations layer, Platform layers, Service layer  
+  4. Platform and DevOps  
 </pre>
 </details>    
-
