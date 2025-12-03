@@ -50,10 +50,9 @@ During my recent engagements at ThoughtWorks, Brevan Howard Capital Market/Corem
 One key insight I gained is that business strategy drives IT/digital strategy. In turn, IT strategy becomes the foundation for platform strategy, which then shapes cloud strategy. Strategy acts like a force behind subsequent decision.
 
 Why?  
-{: .prompt-info }
 
  > Businesses want to move fast, and achieving that requires both:
-{: .prompt-tip }
+{: .prompt-info }
 
 > 1. Support from senior leadership  
 > 2. Advanced platform DevOps capabilities  
