@@ -21,3 +21,26 @@ Imagine a city where humanoid robots are as common as cars or smartphones today.
 <video autoplay controls src="/assets/videos/grok-video-co-live-humanoid.mp4" title="The City Where Humans & Robots Co-Live"></video>
 </div>
 
+## Human Lens - How human life changes  
+This is not about robots. This is about humans who live in a world where robots are abundant. 
+
+> New human behaviors will emerge!
+{: .prompt-info }
+
+- Like  
+  - More “life management” instead of “task execution”  
+  - More emotional and therapeutic interactions with tech  
+  - Humans become “directors” and robots become “performers”  
+
+## The ROBOT Lens — What Robots Need at Large Scale
+Robots Become:  
+  - Appliances
+  - Digital citizens
+  - Mobile infrastructure
+  - City workers
+  - Home companions
+  - Task executors
+
+## The CITY Lens — New Machines, New Infrastructure  
+
+## The GOVERNANCE & ETHICAL Lens — Rules That Shape Behavior
