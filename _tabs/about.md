@@ -7,9 +7,6 @@ author: h_s
 
 ### Formerly named <b> "Tech Principal Deep Dive" </b>
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hi, I’m Harry Sarshogh, an AWS Solutions Architect based in London, UK. Thanks for visiting my website.
 
 Tech Principal Pathways is my platform for sharing real-world experience, structured thinking, and practical insights with the global technology community. My long-term ambition is to grow into a highly impactful Technology Principal and visionary architect, capable of designing not only scalable systems, but entire technological ecosystems that shape the future of human life.
