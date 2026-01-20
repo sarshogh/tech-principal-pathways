@@ -11,7 +11,7 @@ Hi, I’m Harry Sarshogh, an AWS Solutions Architect based in London, UK. Thanks
 
 Tech Principal Pathways is my platform for sharing real-world experience, structured thinking, and practical insights with the global technology community. My long-term ambition is to grow into a highly impactful Technology Principal and visionary architect, capable of designing not only scalable systems, but entire technological ecosystems that shape the future of human life.
 
-My journey in software and cloud engineering began in 2010 as a junior developer. Early in my career, I repeatedly asked myself:
+My journey in software and system engineering began in 2010 as a junior member of a team. Early in my career, I repeatedly asked myself:
 “How do world-class tech companies like Google, Microsoft, and IBM consistently build scalable, high-quality products while so many teams struggle?”
 That curiosity shaped my mindset and continues to drive my growth today.
 
