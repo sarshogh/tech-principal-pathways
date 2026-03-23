@@ -2,7 +2,7 @@
 title: The City Where Humans & Robots Co-Live
 date: 2025-08-15 11:00:00 +GMT
 categories: [AI, Humanoid, Human-shaped and AI-powered]
-tags: [AI, Humanoid, Human-shaped and AI-powered]
+tags: [ai, Humanoid, Human-shaped and AI-powered]
 author: h_s
 toc: true
 comments: true
