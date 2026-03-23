@@ -1,6 +1,8 @@
 baseurl: '/'
 permalink: pretty
-theme: cotes2020/jekyll-theme-chirpy
+# Use local theme files instead of gem theme
+# theme: cotes2020/jekyll-theme-chirpy
+theme_name: jekyll-theme-chirpy
 title: 'Tech Principal Pathways'
 
 logo: "images/logo/logo.svg"
