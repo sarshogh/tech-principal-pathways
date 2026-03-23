@@ -1,6 +1,6 @@
 ---
-title: Preperation for Architect Role
-description: my journey from platform engineer to AWS Solutions Architect
+title: Preparation for Architect Role
+description: My journey from platform engineer to AWS Solutions Architect
 date: 2023-02-07 11:00:00 +GMT
 categories: [Architecture, Application]
 tags: [pathway, preparation, software architecture, cloud architecture, cloud infrastructure]
@@ -16,32 +16,49 @@ image:
 
 ---
 
-Recently, I was promoted to a Cloud Architect role. Before my first day, I found it surprisingly hard to clearly define what my new responsibilities would be. Starting a career as a technology architect can be a confusing journey, especially when you are beginning in a completely new workplace.
+Recently, I moved into a Cloud Architect role. Before day one, I realized how hard it was to define what the role really means in practice.
 
-Because of this, I decided to do some research, read a few books, and learn from other people’s experiences in this role.
+This post is the first in a short series about how I prepared during the week before starting.
 
-I’d like to start a series of articles about how I prepared myself during the week before starting my new job.
+## Start with the big picture
 
-One thing that naturally comes to my mind is the “big picture” of what a Technology Architect looks like — someone who is competent in both AWS cloud infrastructure and AWS cloud-native application architecture. Then I think about what pieces of that puzzle I need to find, learn, and understand within the limited time and effort I can invest.
+For me, a strong Technology Architect needs two capabilities:
 
-Luckily, based on the TEDx Talk <a href="https://www.youtube.com/watch?v=5MgBikgcWnY"> “The First 20 Hours — How to Learn Anything” by Josh Kaufman </a>, I realized that I can build this big picture by spending just two or three days reading as much as I can and teaching myself with whatever resources are available to me. This helps me shape a clearer understanding of the architect role and set realistic boundaries for my preparation.
+1. Design reliable and scalable cloud infrastructure.
+2. Design cloud-native applications that fit real business needs.
 
+The challenge is scope. There is always more to learn than time available.
 
-> My personal experience
+> A useful architect is not the person who knows everything.
+> A useful architect is the person who can create clarity quickly.
 {: .prompt-info }
 
+## My one-week preparation focus
+
+I used the idea from Josh Kaufman's talk, [The First 20 Hours - How to Learn Anything](https://www.youtube.com/watch?v=5MgBikgcWnY):
+learn enough to build momentum, not perfection.
+
+These were my four focus areas:
+
+1. AWS Well-Architected Framework and the six pillars.
+2. Hybrid architecture (on-premises plus cloud).
+3. Architecture layers: organization, foundation, platform, service.
+4. Platform and DevOps operating practices.
+
+## Practical reading list
+
 <details>
-<summary>Preperation for AWS Cloud Solution Architect Role</summary>
-<pre>
+<summary>Preparation plan for AWS Solution Architect role</summary>
 
-`Preperation`:
+1. AWS Well-Architected Framework (six pillars):
+   [AWS documentation](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+2. Hybrid networking and landing zone patterns.
+3. Platform boundaries and shared responsibility across teams.
+4. CI/CD, observability, and incident response basics.
 
-  1. AWS 6 Architectural Pillars  
-     The AWS Well-Architected Framework helps you understand the pros and cons of decisions you make while building systems on AWS. Using the Framework helps you learn architectural best practices for designing and operating secure, reliable, efficient, cost-effective, and sustainable workloads in the AWS Cloud.  Link  
-     https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html
+</details>
 
-  2. Hybrid on-prem and cloud architecture  
-  3. Org layer, Foundations layer, Platform layers, Service layer  
-  4. Platform and DevOps  
-</pre>
-</details>    
+## What I learned
+
+Preparation is less about collecting information and more about creating a decision framework.
+Once I had that framework, the role felt less confusing and much more actionable.

@@ -13,64 +13,55 @@ pin: true
 
 ---
 
-The Journey of Cloud Architects
-Historically, a cloud architect embarking on a new project would initiate by understanding the business or organization’s requirements. This entailed dialogues with stakeholders, evaluations of existing systems, and pinpointing constraints.
+Over the last five years, I have worked in hybrid cloud architecture, mostly on AWS.
+The biggest lesson is simple: architecture is not only about technology.
+It is about clarity, context, communication, and continuous learning.
 
-Following this, they’d draft a high-level cloud infrastructure design, detailing the architecture, components, and their interconnections, often visualized using diagrams.
+## How architecture work has changed
 
-Post this conceptual phase, architects would delve into detailed designs for every infrastructure element, from networks to security controls. This would culminate in a comprehensive plan for infrastructure deployment.
+A typical architecture journey still starts with business outcomes:
 
-Collaboration with engineers and developers would then bring this vision to life, followed by rigorous testing. Post-deployment, the operations team would step in, ensuring smooth functioning, maintenance, and swift issue resolution.
+1. Understand business goals and constraints.
+2. Design a high-level target architecture.
+3. Define detailed controls for networking, security, and operations.
+4. Deliver with engineering teams.
+5. Run and improve in production.
 
-In today’s digital age, much of this process is automated using Infrastructure as Code (IaC) and Configuration Management tools, with IDEs playing a pivotal role in enhancing efficiency.
+Today, IaC, CI/CD, and platform automation make this cycle much faster.
+But speed only helps when decisions are clear.
 
+## Lessons I learned in real projects
 
+Here are the principles that had the most impact on my work:
 
-After spending the past five years working in hybrid cloud architecture, mainly on AWS, I’ve realized that this field is not just about technology — it’s about clarity, balance, and continuous learning. These years have shaped how I think, design, communicate, and lead. Here are some of the most important lessons I’ve learned along the way:
+1. Simplifying complexity is a core architecture skill.
+2. Context beats copy-paste patterns.
+3. Foundations must come before optimization.
+4. Evolutionary architecture usually works better than big-bang redesign.
+5. Scalability and operability should be part of day-one design.
+6. Hands-on engineers often become strong architects.
+7. Storytelling matters because architecture is collaborative.
+8. Most failures are rooted in communication and behavior, not tooling.
 
-- IT is a complex environment, and simplifying it for others is an art. The best architects don’t showcase complexity — they remove it.
+These lessons came from real delivery work, not theory alone.
 
-- Context matters most. There is no “one-size-fits-all” solution; what works for one organization may fail for another.
+## What I observed across engagements
 
-- Before we run, we need to walk. Strong foundations always come before advanced designs.
+During engagements at ThoughtWorks, Brevan Howard Capital Market/Coremont, and Centrica Energy Trading, I repeatedly saw the same pattern:
 
-- You can’t make an omelet without breaking some eggs. Mistakes and failures are a natural (and necessary) part of growth.
+Business strategy drives digital strategy.
+Digital strategy drives IT strategy.
+IT strategy drives platform strategy.
+Platform strategy drives cloud architecture.
 
-- Evolutionary architecture works; revolutionary architecture often fails. Sustainable change happens in steps, not sudden leaps.
-
-- Scalability affects every design. A system that works today might not work tomorrow without planning for growth.
-
-- Strong engineers often become the best architects. Hands-on experience builds better decision-makers.
-
-- Action speaks louder than words. Real impact comes from implementation, not just ideas.
-
-- Skills beat information. Knowing something isn’t enough — being able to use it effectively is what counts.
-
-- Storytelling is key. How we communicate ideas can be as important as the ideas themselves.
-
-- Build the right thing, and build it right. Choosing the correct problem is just as important as solving it well.
-
-- Focus is currency. In a world full of distractions, attention is a superpower.
-
-- Knowing can be the enemy of learning. Curiosity keep us moving forward.
-
-- Most failures trace back to three things: communication, observation, and behavior.
-
-These principles weren’t learned from books alone — they were earned through real projects, difficult decisions, failed experiments, and successful outcomes. They continue to guide how I approach architecture today and how I hope to contribute in the future.
-
-During my recent engagements at ThoughtWorks, Brevan Howard Capital Market/Coremont, and Centrica Energy Trading, I explored hybrid infrastructure from multiple perspectives. I proactively worked to understand what success meant for each user, optimized platform costs, and built solutions with scalability in mind.
-
-One key insight I gained is that business strategy drives IT/digital strategy. In turn, IT strategy becomes the foundation for platform strategy, which then shapes cloud strategy. Strategy acts like a force behind subsequent decision.
-
-Why?  
-
- > Businesses want to move fast, and achieving that requires both:
+> Companies want speed, but speed requires two enablers:
+> executive sponsorship and mature platform DevOps capabilities.
 {: .prompt-info }
 
-> 1. Support from senior leadership  
-> 2. Advanced platform DevOps capabilities  
-{: .prompt-tip }  
+As Gregor Hohpe often highlights, the economy of speed depends on the economy of scale.
+That idea is visible in every high-performing cloud platform.
 
-As <a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg"> Gregor Hohpe, author of The Architecture Elevator,</a> points out: the economy of speed is based on the economy of scale. Amazon spent billions to become the world’s number one cloud provider, and this investment in scale enabled them to move faster and more efficiently than anyone else.
+## Final reflection
 
-Hybrid cloud architecture is challenging, exciting, and constantly evolving. Over the past five years, I’ve learned that success comes from balancing technical excellence with context, communication, and continuous learning.
+Hybrid cloud architecture is still one of the most exciting spaces in technology.
+The technical part is important, but long-term success comes from balancing design quality with people, process, and communication.

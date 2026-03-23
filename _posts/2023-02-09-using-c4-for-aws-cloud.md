@@ -15,13 +15,50 @@ pin: true
 
 > Bridging C4 Software Architecture Modeling with AWS Cloud Infrastructure Diagrams
 
-In my experience, applying the C4 model to cloud infrastructure design—particularly within AWS—can be remarkably effective. The C4 model, with its hierarchical approach to visualizing software architecture, provides clarity at multiple levels: Context (C1), Container (C2), Component (C3), and Code (C4). When planning cloud architectures, I’ve found that the first three levels (C1–C3) map especially well to AWS concepts.
+In my experience, applying the C4 model to AWS architecture design is highly effective.
+It gives teams a shared language from high-level context down to implementation detail.
+
+The model has four levels:
+
+1. Context (C1)
+2. Container (C2)
+3. Component (C3)
+4. Code (C4)
+
+For cloud architecture work, C1 to C3 are usually the most useful.
 
 ![Desktop View](/assets/img/posts/2023-02-09-using-c4-for-aws-cloud.png){: width="972" height="589" .w-50 .left}  
-At the C1 (Context) level, we define the system’s scope and its interactions with users, external systems, and other applications. In an AWS environment, this can translate to identifying key services and external integrations, such as API Gateway endpoints, third-party services, or user-facing applications. This level helps stakeholders understand the “big picture” before diving into technical details.
 
-The C2 (Container) level dives into the main building blocks of the system, which, in cloud terms, can be represented as AWS services or groups of services. For example, a container could correspond to an EC2-backed application, a Lambda function, or an ECS cluster. Mapping containers to AWS services provides a clear understanding of how the system is deployed and how different parts communicate over the cloud infrastructure.
+## How I map C4 to AWS
 
-The C3 (Component) level often aligns directly with AWS component diagrams. At this level, we focus on individual components within a container—like a specific microservice, a database module, or a message queue—and show their interactions. AWS diagrams can visually represent these components using icons for RDS, S3, SQS, or Lambda, allowing technical teams to bridge the gap between abstract architecture and concrete cloud resources.
+| C4 level | Purpose | Typical AWS view |
+|---|---|---|
+| C1 Context | Show system boundaries and external actors | Users, external APIs, identity providers, partner systems |
+| C2 Container | Show deployable units and communication | ECS services, Lambda functions, API Gateway, databases |
+| C3 Component | Show internals of each container | Microservices, queue consumers, domain modules, storage adapters |
 
-By leveraging the C4 model for cloud infrastructure, teams gain a structured approach to design that scales from conceptual understanding to detailed implementation. It also ensures alignment between software architecture and cloud infrastructure, reducing ambiguity and improving communication across development, operations, and business stakeholders.
+### C1: Context first
+
+At C1, I focus on scope and relationships.
+This helps non-technical stakeholders quickly understand what the system does and where it integrates.
+
+### C2: Deployment and communication
+
+At C2, each container maps to cloud runtime choices.
+For example, a web API might run on ECS, while an event processor runs on Lambda.
+This is where network boundaries and data flow become explicit.
+
+### C3: Internal design quality
+
+At C3, I model the components inside each container:
+handlers, domain services, data access layers, and messaging flows.
+This level is ideal for engineering discussions about ownership, coupling, and reliability.
+
+## Why this works well
+
+Using C4 for AWS gives teams a path from idea to implementation without losing clarity.
+It improves communication across product, engineering, platform, and operations teams.
+
+> Good architecture diagrams are not just pictures.
+> They are decision tools.
+{: .prompt-tip }
