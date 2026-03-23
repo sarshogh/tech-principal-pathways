@@ -1,6 +1,6 @@
 ---
 title: The City Where Humans & Robots Co-Live
-date: 2025-08-15 11:00:00 +GMT
+date: 2025-12-02 11:00:00 +GMT
 categories: [AI, Humanoid, Human-shaped and AI-powered]
 tags: [ai, humanoid, human-shaped and ai-powered]
 author: h_s
@@ -21,7 +21,7 @@ They live and work alongside people, not as independent beings, but as part of d
 To think clearly about this future, I use four lenses: human behavior, robot capability, city infrastructure, and governance.
 
 <div class="center">
-<video autoplay controls src="/assets/videos/grok-video-co-live-humanoid.mp4" title="The City Where Humans & Robots Co-Live"></video>
+<video autoplay controls src="/assets/videos/posts/grok-video-co-live-humanoid.mp4" title="The City Where Humans & Robots Co-Live"></video>
 </div>
 
 ## Human Lens: how daily life changes
