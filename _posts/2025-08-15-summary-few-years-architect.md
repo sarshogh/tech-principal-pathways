@@ -13,6 +13,19 @@ pin: true
 
 ---
 
+The Journey of Cloud Architects
+Historically, a cloud architect embarking on a new project would initiate by understanding the business or organization’s requirements. This entailed dialogues with stakeholders, evaluations of existing systems, and pinpointing constraints.
+
+Following this, they’d draft a high-level cloud infrastructure design, detailing the architecture, components, and their interconnections, often visualized using diagrams.
+
+Post this conceptual phase, architects would delve into detailed designs for every infrastructure element, from networks to security controls. This would culminate in a comprehensive plan for infrastructure deployment.
+
+Collaboration with engineers and developers would then bring this vision to life, followed by rigorous testing. Post-deployment, the operations team would step in, ensuring smooth functioning, maintenance, and swift issue resolution.
+
+In today’s digital age, much of this process is automated using Infrastructure as Code (IaC) and Configuration Management tools, with IDEs playing a pivotal role in enhancing efficiency.
+
+
+
 After spending the past five years working in hybrid cloud architecture, mainly on AWS, I’ve realized that this field is not just about technology — it’s about clarity, balance, and continuous learning. These years have shaped how I think, design, communicate, and lead. Here are some of the most important lessons I’ve learned along the way:
 
 - IT is a complex environment, and simplifying it for others is an art. The best architects don’t showcase complexity — they remove it.
